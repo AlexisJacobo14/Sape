@@ -20,4 +20,4 @@ git commit -m "<mensaje describiendo los cambios"
 		git config --global user.email "<tu email>"
 git push -u origin
 
-
+git pull = actualizar repositorio local del remoto
