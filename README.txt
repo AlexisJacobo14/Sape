@@ -21,3 +21,6 @@ git commit -m "<mensaje describiendo los cambios"
 git push -u origin
 
 git pull = actualizar repositorio local del remoto
+
+git checkout -b <nombreRama> #permite crear una nueva rama
+git checkout <nombreRama> #permite moverse entre las distintas ramas
